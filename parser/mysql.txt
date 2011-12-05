@@ -1,0 +1,1 @@
+INSERT INTO authuser(uname, uname2, uname3, passwd, firstname, lastname, email, team, level, status, lastlogin, gender) VALUES("username","username2","username3","password","FIRST","LAST","email","Voters","11","active",NOW(),"0");

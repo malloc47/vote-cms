@@ -1,0 +1,224 @@
+a:link
+{
+  color: #A60000; 
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: #A60000;
+  text-decoration: none; 
+}
+
+a:hover
+{
+  color: #FFBF00; 
+  text-decoration: underline; 
+}
+
+a:active
+{
+  color: #FFBF00; 
+  text-decoration: underline; 
+}
+
+
+a.close:link
+{
+  border: 1px solid #A60000;
+  color: #FFFFFF; 
+  text-decoration: none;
+  background: #A60000;
+}
+
+a.close:visited
+{
+  color: #FFFFFF;
+  text-decoration: none; 
+  background: #A60000;
+}
+
+a.close:hover
+{
+  color: #FFFFFF; 
+  text-decoration: none; 
+  background: #A76565;
+}
+
+a.close:active
+{
+  color: #FFFFFF; 
+  text-decoration: none; 
+  background: #A76565;
+}
+
+
+
+a.monthhead:link
+{
+  border: 1px solid #FFBF00;
+  color: #FFFFFF; 
+  text-decoration: none;
+  background: #FFBF00;
+}
+
+a.monthhead:visited
+{
+  border: 1px solid #FFBF00;
+  color: #FFFFFF;
+  text-decoration: none; 
+  background: #FFBF00;
+}
+
+a.monthhead:hover
+{
+  border: 1px solid #A60000;
+  color: #A60000; 
+  text-decoration: none; 
+  background: #FFBF00;
+}
+
+a.monthhead:active
+{
+  border: 1px solid #A60000;
+  color: #A60000; 
+  text-decoration: none; 
+  background: #FFBF00;
+}
+
+
+
+
+table.content
+{
+border: 0px solid #111111;
+width: 378px;
+background-color: #ffffff;
+border-collapse: collapse;
+}
+
+table.content td
+{
+padding: 5px;
+}
+
+table.contentsm
+{
+border: 0px solid #111111;
+width: 368px;
+background-color: #ffffff;
+border-collapse: collapse;
+}
+
+table.contentsm td
+{
+padding: 0px;
+}
+
+table.hilight
+{
+border: 0px solid #A60000;
+border-bottom: 1px solid #A60000;
+background-color: #ffffff;
+border-collapse: collapse;
+/*position: relative;
+left: -5px;
+top: 5px; */
+}
+
+table.hilight td
+{
+padding: 0px;
+}
+
+table.menu
+{
+border: 0px solid #111111;
+width: 378px;
+border-collapse: collapse;
+}
+
+table.menu td
+{
+padding: 2px;
+}
+
+table.emenu
+{
+border: 0px solid #111111;
+width: 148px;
+border-collapse: collapse;
+background-color: #ffffff;
+}
+
+table.emenu td
+{
+padding: 5px;
+}
+
+table.ballot
+{
+border: 0px solid #111111;
+}
+
+table.ballot td
+{
+padding: 10px;
+}
+
+table.login
+{
+border: 1px solid #A60000;
+border-collapse: collapse;
+}
+
+table.login td
+{
+padding: 0px;
+}
+
+
+table.loginin
+{
+border: 0px solid #A60000;
+border-collapse: collapse;
+}
+
+table.loginin td
+{
+padding: 2px;
+}
+
+
+font.content
+{
+font-family: Verdana;
+font-size: 7.5pt
+}
+font.ballotsize
+{
+font-family: Verdana;
+font-size: 9pt
+}
+font.contentheader
+{
+font-family: Verdana;
+font-size: 10pt
+}
+
+font.subhead 
+{
+font-family: Verdana;
+font-size: 7.5pt;
+color: #808080
+}
+
+.colorgoldbg
+{
+background-color: #FFBF00;
+}
+
+.colorredbg
+{
+background-color: #A60000;
+}

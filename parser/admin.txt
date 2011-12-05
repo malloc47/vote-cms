@@ -1,0 +1,6 @@
+INSERT INTO `authuser` ( `id` , `uname` , `uname2` , `uname3` , `passwd` , `firstname` , `lastname` , `email` , `team` , `level` , `status` , `voted` , `lastlogin` , `logincount` ) 
+VALUES (
+'', 'sa', 'sa', 'sa', 'access', '', '', '', 'Admin', '1', 'active', '1', NOW( ) , '0'
+), (
+'', 'admin', 'admin', 'admin', 'access', '', '', '', 'Admin', '1', 'active', '1', NOW( ) , '0'
+);
